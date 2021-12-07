@@ -21,3 +21,7 @@ allprojects {
         maven(url = "https://jitpack.io")
     }
 }
+
+plugins {
+    id("org.jlleitschuh.gradle.ktlint") version "10.2.0"
+}
