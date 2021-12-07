@@ -2,6 +2,7 @@ plugins {
     id("com.android.application")
     id("com.github.triplet.play") version "3.7.0"
     id("kotlin-android")
+    id("org.jlleitschuh.gradle.ktlint") version "10.2.0"
 }
 
 android {
