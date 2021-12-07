@@ -1,0 +1,4 @@
+rootProject.name = "TPP-Repro"
+include ':app'
+include ':tppreprowearos'
+include ':dynamicfeature'
